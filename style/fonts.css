@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "royal";
+    src: url("../font/Far_Roya.ttf")format("ttf");
+}
+@font-face {
+    font-family: "nasim";
+    src: url("../font/nasim-web/nasim.eot")format("eot");
+    src: url("../font/nasim-web/nasim.ttf")format("ttf");
+    src: url("../font/nasim-web/nasim.woff")format("woff");
+}
